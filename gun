@@ -11,7 +11,7 @@ CustomShop.CreateItem(exampleTool, {
     Title = "M249",
     Desc = "Don't shoot your friends!",
     Image = "https://cdn.discordapp.com/attachments/1036318416405012520/1036379216679284857/unknown.png",
-    Price = 999,
+    Price = 100,
     Stack = 1,
 })
 
